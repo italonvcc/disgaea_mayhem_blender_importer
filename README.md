@@ -1,3 +1,4 @@
+<img width="1420" height="1249" alt="Screenshot 2026-09-06 122644" src="https://github.com/user-attachments/assets/0a7cd810-fdd1-41e9-9ce3-e2d1105f81b5" />
 # disgaea\_mayhem\_blender\_importer
 
 Addon to import Disgaea mayhem models and animations to blender
